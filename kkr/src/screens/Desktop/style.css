@@ -1,0 +1,172 @@
+.desktop {
+  background-color: rgba(255, 255, 255, 1);
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  width: 100%;
+}
+
+.desktop .overlap-wrapper {
+  background: linear-gradient(180deg, rgb(159, 226, 6) 0%, rgb(32, 32, 32) 100%);
+  background-color: rgba(255, 255, 255, 1);
+  height: 1024px;
+  width: 1440px;
+}
+
+.desktop .overlap {
+  height: 1024px;
+  position: relative;
+}
+
+.desktop .overlap-group {
+  height: 221px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1074px;
+}
+
+.desktop .ellipse {
+  height: 191px;
+  left: 0;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0;
+  width: 305px;
+}
+
+.desktop .kkrw {
+  height: 89px;
+  left: 20px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: 121px;
+}
+
+.desktop .text-wrapper {
+  color: #fffdfd;
+  font-family: "Inter", Helvetica;
+  font-size: 64px;
+  font-style: italic;
+  font-weight: 700;
+  left: 280px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 8px;
+  white-space: nowrap;
+  width: 794px;
+}
+
+.desktop .about-us {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 700;
+  left: 197px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 182px;
+}
+
+.desktop .home {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 700;
+  left: 70px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 182px;
+}
+
+.desktop .div {
+  height: 1024px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1440px;
+}
+
+.desktop .img {
+  height: 388px;
+  left: 1114px;
+  mix-blend-mode: multiply;
+  position: absolute;
+  top: 0;
+  width: 326px;
+}
+
+.desktop .text-wrapper-2 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 700;
+  left: 942px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 182px;
+}
+
+.desktop .vector {
+  height: 404px;
+  left: 0;
+  position: absolute;
+  top: 620px;
+  width: 1301px;
+}
+
+.desktop .OUR-AUTONOMOUS-WILL {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 64px;
+  font-weight: 400;
+  left: 98px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 404px;
+  width: 715px;
+}
+
+.desktop .image {
+  height: 662px;
+  left: 813px;
+  object-fit: cover;
+  position: absolute;
+  top: 305px;
+  width: 573px;
+}
+
+.desktop .text-wrapper-3 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 700;
+  left: 393px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 182px;
+}
+
+.desktop .text-wrapper-4 {
+  color: #ffffff;
+  font-family: "Inter", Helvetica;
+  font-size: 32px;
+  font-style: italic;
+  font-weight: 700;
+  left: 646px;
+  letter-spacing: 0;
+  line-height: normal;
+  position: absolute;
+  top: 182px;
+}
